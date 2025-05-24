@@ -1,45 +1,48 @@
-# 👋 Hey there! I’m Soumalya De
+# 👋 Hey, I’m Soumalya De
 
-🌟 **From Marketing Pro to Tech Enthusiast**  
-After years of driving digital marketing strategies, I realized my true passion lies in tech — coding, building, and solving complex problems. Now, I’m diving headfirst into the world of development, and I’m all about creating things that make a difference.
+For over 15 years, I worked with solopreneurs, startups, SMEs, and global brands like Kia, Castrol, and SBI—helping them find their authentic voice and tell stories that truly resonate.
 
----
+In 2023, mid-conversation with a startup founder, I caught myself saying:  
+*"Imagine if we could just build this instead of pitching it."*  
+That moment changed everything.
 
-## 💡 What Drives Me  
-- **Chasing the cutting edge**: I’m always exploring the latest tech trends — AI, Machine Learning, and Full Stack Development.  
-- **Tackling challenges**: I thrive on breaking down complex problems and finding elegant solutions.  
-- **Making tech human**: My mission is to make technology fun, accessible, and relatable because the future of tech should be for everyone.  
+So, I took the leap:  
+- Enrolled in a Bachelor’s in Computer Applications (BCA) with no tech background—just curiosity and a hunch.  
+- Started learning coding, data structures, OS, and networking—at 37—and fell in love.  
 
----
-
-## 🚀 What I’m Working On  
-Currently, I’m diving deep into:  
-- **SQL & Networking**: Building strong foundations for the future.  
-- **AI & Machine Learning**: Aiming for big challenges and bigger breakthroughs.  
-- **Full Stack Development & Data Science**: No limits — just big goals.  
-- **Open-Source Projects**: Actively seeking opportunities to contribute and collaborate as I grow in this space.
+This isn’t a career switch; it’s a remix. I didn’t leave branding behind—I layered tech on top.
 
 ---
 
-## 🤝 Let’s Collaborate  
-I’m all about collaboration over competition. Let’s connect if:  
-- You have a **bold open-source project** in mind.  
-- You’re passionate about **tech blogs** or creating content that inspires.  
-- You’re working on something **innovative and game-changing**.  
+## 🔧 What I’m Exploring  
+- 🐍 Python (can’t get enough)  
+- 🛡️ Cybersecurity (exciting and intense)  
+- 🧠 AI & Machine Learning fundamentals (mind officially blown)  
+- 🛠️ Weekend projects turning “what if?” into “it works!”
 
 ---
 
-## 📬 Reach Out  
-I’m just a message or email away!  
-- **Twitter**: https://x.com/codedetech
-- **Blog**: https://codedetech.in/
+## 🧪 Projects I’m Building  
+- A career chatbot for non-tech folks exploring tech roles  
+- A QR scam detector to flag shady payment links  
+- A currency converter Chrome extension (API + browser testing)  
+- And whatever curiosity drags me in next!
 
 ---
 
-😄 **Fun Fact**  
-When I’m not coding, I’m brewing up a mean coffee latte and geeking out over sci-fi movies.  
+## 📌 What I’m Looking For  
+- Internships, full-time roles, or freelance gigs in AI, cybersecurity, or impactful tech  
+- Teams solving real-world problems  
+- Mentors who laugh when I say, “Wait… arrays are just lists?”
 
 ---
 
-🔥 **One Last Thought**  
-Tech is the great equalizer, but it only works if we keep pushing boundaries. Let’s create something amazing together!
+If you’re building something that needs a translator between humans and tech, let’s chat.  
+I bring:  
+- A marketer’s obsession with the “why”  
+- A new coder’s wide-eyed curiosity  
+- And 15 years of getting people to care — now about tools, not taglines.
+
+---
+
+**P.S.** If you’ve ever Googled “what even is an API?” or whispered “I think I can build this…” — I’m right there with you.
